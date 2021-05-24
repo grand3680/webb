@@ -1,5 +1,5 @@
 a = {
     'version': '3',
-    'author': 'Kirill',
+    'author': 'grand3680',
     'information':'web application based on flask framework',
 }
